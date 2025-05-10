@@ -1,0 +1,12 @@
+id = "ty"
+name = "Ty"
+description = "Python type checker"
+version = "0.0.1"
+schema_version = 1
+authors = ["Mrzz"]
+# repository = "https://github.com/astral-sh/ty"
+
+
+[language_servers.ty]
+name = "Ty"
+languages = ["Python"]
