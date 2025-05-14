@@ -1,12 +1,11 @@
-# ty-zed: `astral-sh/ty` for Zed 
+# ty-zed: `astral-sh/ty` for Zed
 
 This extension provides [`ty`](https://github.com/astral-sh/ty), an extremely fast Python type checker and language server, for Zed editor.
 
 ## Installation
-Open Zed extensions page, and search `tyzed` to install.
+Open Zed extensions page, and search `ty` to install.
 
 ## Enable
-
 Enable `ty` in your settings.
 
 ```jsonc
