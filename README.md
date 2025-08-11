@@ -4,7 +4,7 @@ This extension provides [`ty`](https://github.com/astral-sh/ty), an extremely fa
 
 
 > [!note]
-> This extension has been officially merged into and is now maintained by the Zed team.
+> This extension has been officially merged and maintained by the Zed team.
 > 
 > Please visit the new [repository](https://github.com/zed-extensions/ty) for the latest usage instructions and support.
 
